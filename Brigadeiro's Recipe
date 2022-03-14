@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+	<!-- Set the title here -->
+    <title>Brigadeiro Recipe</title>
+    
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <style>
+        body{
+            background-color:#997676;
+        }
+        header{
+            background-color:#570404;
+            color:#ffffff;
+        }
+        #body {
+width: 100%;
+height: 100%;
+}
+    </style>
+  </head>
+	<body>
+	    <div id=body>
+  
+		<!-- Add your header here -->
+		<header>
+		    <h1>How to make Brigadeiro</h1>
+		    <img src="https://image.shutterstock.com/image-photo/brigadeiro-brigadier-traditional-brazilian-sweet-600w-1711081285.jpg"; width="100%"; height="200px";>
+		    <p>Picture of Brigadeiros</p>
+		</header>
+		
+		<!-- Add a section here -->
+		<section>
+		    <h2>ingredients list</h2>
+		    <ul>
+		        <li> 1 Condensed Milk</li>
+		        <li> 1 tbs butter</li>
+		        <li> 4 tbs cocoa powder</li>
+		    </ul>
+		    </section>
+		
+		<!-- Add a section here -->
+		<section>
+		    <h2>preparation list</h2>
+		    <ol>
+		        
+		           <li>Put all ingredients in a pan.</li>
+		            <li>Mix all ingredients</li>
+		            <li>When boiling put in low heat</li>
+		            <li>keep mixing until butter texture</li>
+		            <li>wait until cool down</li>
+		            <li>make balls using your hands</li>
+		            <li>use chocolate sprinkles to cover them</li>
+		    </ol>
+		</section>
+		<section>Enjoy!</section>
+		<!-- Add your footer here -->
+		<footer style="text-align:right";>
+		    copyright 2022
+		</footer>
+
+		<script src="index.js"></script>
+		</div>
+	</body>
+</html>
